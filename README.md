@@ -4,4 +4,4 @@ Aplicação construída com base no _live-coding_ do _bootcamp_ 'Santander Full-
 # Requisitos
 * Java 11
 * Elasticsearch 6.6.2
-* Redis
+* Redis 3.0.1
