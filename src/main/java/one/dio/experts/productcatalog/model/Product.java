@@ -3,7 +3,7 @@ package one.dio.experts.productcatalog.model;
 import org.springframework.data.annotation.Id;
 import org.springframework.data.elasticsearch.annotations.Document;
 
-@Document(indexName = "product")
+@Document(indexName = "products")
 public class Product {
     
     @Id
